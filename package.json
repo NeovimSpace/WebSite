@@ -3,9 +3,9 @@
 	"version": "0.0.1",
 	"private": true,
 	"description": "Website 🗾",
-	"homepage": "HTTPS://GitHub.Com/NeovimSpace/Website#readme",
+	"homepage": "https://GitHub.Com/NeovimSpace/Website#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/NeovimSpace/Website/issues"
+		"url": "https://GitHub.Com/NeovimSpace/Website/issues"
 	},
 	"repository": {
 		"type": "git",
@@ -15,7 +15,7 @@
 	"author": {
 		"name": "Source ✍🏻 Open 👐🏻",
 		"email": "Source/Open@PlayForm.Cloud",
-		"url": "HTTPS://PlayForm.Cloud"
+		"url": "https://PlayForm.Cloud"
 	},
 	"scripts": {
 		"Run": "astro dev --host",
